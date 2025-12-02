@@ -1,11 +1,16 @@
 ---
-title: "yourgithubusername.github.io"
+title: "Grace Tompkins"
+about:
+  template: jolla
+  image: images/me.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/grcetmpk
 ---
 
-This is a Quarto website.
+**Graduate Student in Statistics**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of British Columbia
 
-```{r}
-1 + 1
-```
+![My department!](images/me.jpeg){fig-alt="A photo of me and my department" fig-align="center"}

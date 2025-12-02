@@ -1,0 +1,11 @@
+---
+title: "Courses"
+---
+
+## Current Courses
+
+-   [STAT545: Exploratory Data Analysis](https://ubc-stat.github.io/STAT545.github.io/)
+
+-   CHEM500: Chemistry for Statisticians
+
+## Past Courses

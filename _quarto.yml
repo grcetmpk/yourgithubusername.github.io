@@ -3,12 +3,33 @@ project:
   output-dir: docs
 
 website:
-  title: "yourgithubusername.github.io"
+  favicon: images/me.jpeg
+  title: "Grace Tompkins"
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - courses.qmd
+      - sidebar:projects
+      - extracurric
+      
+      
+  sidebar:
+    - id: projects
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - projects/project1.qmd
+        - projects/project2.qmd
+        
+    - id: extracurric
+
+
+
+
 
 format:
   html:

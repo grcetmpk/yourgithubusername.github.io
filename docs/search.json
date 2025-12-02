@@ -1,9 +1,70 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grace Tompkins",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Graduate Student in Statistics\nUniversity of British Columbia\n\n\n\nMy department!"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis\nCHEM500: Chemistry for Statisticians"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis\nCHEM500: Chemistry for Statisticians"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses"
+  },
+  {
+    "objectID": "projects/project2.html#committee",
+    "href": "projects/project2.html#committee",
+    "title": "Master’s Thesis",
+    "section": "Committee",
+    "text": "Committee",
+    "crumbs": [
+      "Master's Thesis"
+    ]
+  },
+  {
+    "objectID": "projects/project2.html#related-talks-and-papers",
+    "href": "projects/project2.html#related-talks-and-papers",
+    "title": "Master’s Thesis",
+    "section": "Related Talks and Papers",
+    "text": "Related Talks and Papers",
+    "crumbs": [
+      "Master's Thesis"
+    ]
+  },
+  {
+    "objectID": "projects/project1.html#research-team-and-roles",
+    "href": "projects/project1.html#research-team-and-roles",
+    "title": "Undergraduate Research Project",
+    "section": "Research Team and Roles",
+    "text": "Research Team and Roles",
+    "crumbs": [
+      "Undergraduate Research Project"
+    ]
+  },
+  {
+    "objectID": "projects/project1.html#links",
+    "href": "projects/project1.html#links",
+    "title": "Undergraduate Research Project",
+    "section": "Links",
+    "text": "Links",
+    "crumbs": [
+      "Undergraduate Research Project"
+    ]
   }
 ]
